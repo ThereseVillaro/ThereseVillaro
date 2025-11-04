@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Therese Julianne C. Villaro! 👋
 
-<!--
-**ThereseVillaro/ThereseVillaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate IT student at Xavier University - Ateneo de Cagayan College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## 🚀 About Me
+- 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University College.
+- 🌱 I’m currently learning and developing my skills on Databases, API, and other programming languages.
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 20230028464@my.xu.edu.ph
+
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,vscode,java,python)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+- 🚀 Still learning Java, Python, Web API, Databases.
+  - Exploring the ins and outs of React and Basics of API
+  - Building Web Applications and Start off Android game development.
+
+## 🏆 Achievements
+- 🌟 Completed Git & GitHub Setup 2025
+- 🔭 I’m currently working on my final API project.
+
+Thanks for stopping by!
