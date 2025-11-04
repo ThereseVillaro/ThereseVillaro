@@ -21,4 +21,12 @@ I am a passionate IT student at Xavier University - Ateneo de Cagayan College, d
 - 🌟 Completed Git & GitHub Setup 2025
 - 🔭 I’m currently working on my final API project.
 
+## Fun Facts
+- I like to read books
+- One of my favorite songs is You and me bylife house
+- I like buldak
+- One of my favorite colors is Navy Blue
+
 Thanks for stopping by!
+
+
